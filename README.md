@@ -27,5 +27,4 @@ It displays not just the last 10 players, and also allows you to watch the rest 
 ```html
 <iframe src="PATH_TO_SCRIPT/?game=GAME_TYPE" width="245" height="290" frameborder="0" scrolling="no">
 </iframe>
-</code>
 ```
