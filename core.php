@@ -15,6 +15,7 @@ require_once('include/config.php');
 $playerOutput = null;
 $output = null;
 $navigation = null;
+$print = null;
 
 $_gameType = $_GET['game'];
 
@@ -100,5 +101,5 @@ if ($page > 0)
 
 $mainTemplate = file_get_contents('include/template/main.php');
 $replace = ['%OUTPUT%' => $output, '%NAVIGATION%' => $navigation, '%PLAYER%' => $_config_TrPlayer, '%SCORE%' => $_config_TrPlayerScore];
-$print.= str_replace(array_keys($replace) , array_values($replace) , $mainTemplate);
+$print .= str_replace(array_keys($replace) , array_values($replace) , $mainTemplate);
 print $print;
