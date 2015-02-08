@@ -1,4 +1,4 @@
-# top-hlstatsx-players
+# Top HLStatsX Players
 Script to display the rating of the hlstatsx players
 
 # About
