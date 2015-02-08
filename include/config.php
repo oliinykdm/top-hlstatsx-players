@@ -25,7 +25,7 @@ $_config_hlstatsImgPath = 'http://hlstatsx1.uasource.com/hlstatsimg'; // path to
 $_config_playerUpDesc = 'Player rating increased'; // description of player rating up (img alt, title)
 $_config_playerDownDesc = 'Player rating dropped'; // description of player rating down (img alt, title)
 $_config_playerNameCut = 14; // the number of characters to cut username (e.g. PlayerNa..., PlayerNam...)
-$_config_TrPlayer = 'Player'; // Description of table row
-$_config_TrPlayerScore = 'Score'; // Description of table row
+$_config_TrPlayer = 'Player'; // description of table row
+$_config_TrPlayerScore = 'Score'; // description of table row
 
 
