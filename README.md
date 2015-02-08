@@ -23,6 +23,8 @@ It displays not just the last 10 players, and also allows you to watch the rest 
 # Installation
 * Copy all files to any dir in your web-server.
 * Configure include/config.php file (and include/database.class.php for database)
-* Add following code to display (e.g. xenforo right block):
+* Add following code to display (e.g. to xenforo right block):
+<code>
 <iframe src="PATH_TO_SCRIPT/?game=GAME_TYPE" width="245" height="290" frameborder="0" scrolling="no">
 </iframe>
+</code>
