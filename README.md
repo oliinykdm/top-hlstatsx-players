@@ -1,10 +1,6 @@
 # Top HLStatsX Players
 Script to display the rating of the hlstatsx players
 
-- ![Alt text](http://top-demo.dev.lab.dima.rv.ua/images/1.png "Screenshot 1") ![Alt text](http://top-demo.dev.lab.dima.rv.ua/images/2.png "Screenshot 2")
-- Live demo: http://top-demo.dev.lab.dima.rv.ua/?game=csgo2
-
-
 # About
 Do you want to place on the forum mini-ranked players on your servers (team fortress 2, counter-strike: source, counter-strike: global offensive, etc)?
 This script will help you!
